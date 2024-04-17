@@ -1,16 +1,11 @@
 {
-    "name": "Swanky Cat",
-    "symbol": "$CAT",
-    "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1712855008633-d603590d0f44d2fc7eacc9c76f12c868.png",
-    "description": "Swanky: The Catalyst of Swanky Cat's Success, discover the power of meme culture and financial innovation with Swanky and the Swanky Cat community. Let's revolutionize the crypto world together.",
-    "extension": {
-      "website": "https://www.swankycat.meme",
-      "twitter": "https://twitter.com/swankycatsol",
-      "telegram":m "https://t.me/swankycatsol"
-    },
-    "tags": ["Meme","Cat","Rich","Cats","Trading"],
-    "creator": {
-      "name": "X COin Project",
-      "website": "https://t.me/TheXCoinProject"
-    }
+  "name": "Swanky Cat",
+  "symbol": "$CAT",
+  "description": "🚀 Swanky: The Catalyst of Swanky Cat's Success 🌙 | Discover the power of meme culture and financial innovation with Swanky and the Swanky Cat community! 🐱✨ | Let's revolutionize the crypto world together! #SwankyCat".",
+  "image": "https://raw.githubusercontent.com/XCoinProjectX/SwankyCat/main/swankycat.png",
+  "extensions": {
+    "website": "https://www.swankycat.meme",
+    "twitter": "https://twitter.com/SwankyCatSol",
+    "telegram": "https://t.me/SwankyCatSol"
+  }
 }
