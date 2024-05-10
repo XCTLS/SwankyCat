@@ -1,14 +1,14 @@
 {
-    "name": "Swanky Cat",
-    "symbol": "$CAT",
-    "description": "Welcome to the era of Queen Swanky and her royal brethren from the mythical kingdom of Felinia to Solana's realm. Acquire Swanky Cat $CAT tokens today to join our adventure and experience elegance and mystery in tales of exploration. With each transaction, legends are forged and new adventures sparked, embodying the boundless potential of guardianship in Felinia.",
+    "name": "Bat Bat",
+    "symbol": "$BAT",
+    "description": "The Bat Bat Memecoin.",
 "image": "https://raw.githubusercontent.com/XCoinTools/SwankyCat/main/swankycat.png",
     "extension": {
-      "website": "https://www.swankycat.meme",
-      "twitter": "https://twitter.com/swankycatsol",
-      "telegram": "https://t.me/swankycatsol"
+      "website": "https://www.batbat.meme",
+      "twitter": "https://twitter.com/batbat",
+      "telegram": "https://t.me/batbat"
     },
-    "tags": ["Meme","Cat","Rich","Cats","Trading"],
+    "tags": ["Meme"],
     "creator": {
       "name": "X Coin Tools",
       "website": "https://t.me/XCoinTools"
